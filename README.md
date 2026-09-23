@@ -5,7 +5,7 @@ A fork of the desktop client for [Yume Nikki Online](https://ynoproject.net/) wi
 
 ## Download
 
-[**→ Latest release for Windows**](https://github.com/goobert/ynodesktop-commumoji/releases/latest)
+[**→ Latest release for Windows**](https://github.com/goobert/ynodesktop-commumojis/releases/latest)
 
 
 ## YNOdesktop
