@@ -3,6 +3,8 @@
 
 A fork of the desktop client for [Yume Nikki Online](https://ynoproject.net/) with [commumojis](https://github.com/AcrylonitrileButadieneStyrene/yno-commumoji).
 
+Thank you to xartixnu on YNO for updating the script!
+
 ## Download
 
 [**→ Latest release for Windows**](https://github.com/goobert/ynodesktop-commumojis/releases/latest)
